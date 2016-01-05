@@ -1,4 +1,6 @@
 # CKEditor IconFont plugin
+
+[![Join the chat at https://gitter.im/jessedobbelaere/ckeditor-iconfont](https://badges.gitter.im/jessedobbelaere/ckeditor-iconfont.svg)](https://gitter.im/jessedobbelaere/ckeditor-iconfont?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Insert one of your icons into your content inside CKEditor without the hassle of typing the HTML code yourself in the cluttered CKEditor code view.
 
 ## Description
